@@ -23,4 +23,5 @@ Use this repository (repo, for short) to complete your practice for Lesson 2.
 * When you have completed each task, commit and push to GitHub. 
 * Go to the repo on GitHub and look for the green check mark (automatic testing passed.)
   * See Canvas for more information
+  
 
