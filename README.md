@@ -12,7 +12,7 @@ Use this repository (repo, for short) to complete your practice for Lesson 2.
 
 #### Quick check
 * On Canvas, complete the Quick Check. Record incorrect answers (along with correct responses and clarifications) in OneNote.
-* 
+
 #### Fix & Write Code  
 * [Fix the Code #1](fix_code_1.py) 🥉
   * Fix the errors in the starter code so it prompts the user for their favorite math class and then responds that it loves that class. 
