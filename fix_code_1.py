@@ -4,7 +4,11 @@
 #
 #
 #############################
+# ------------------------------------------#
+# Find the errors and fix them.
+# Be sure the output matches the expected output.
+# Test your program before you submit it!
+# ------------------------------------------#
 
-# Fix the line of code below:
-
-Print Welcome to CompSci!
+Input("What math class are you taking?') = math_class
+Print(f I love [math_class]!)
