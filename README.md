@@ -10,6 +10,9 @@ Use this repository (repo, for short) to complete your practice for Lesson 2.
 #### Reading (optional) 
 * [Debugging: reading from Think Python by Allen B Downey](https://www.greenteapress.com/thinkpython/html/thinkpython021.html#:~:text=1%20Syntax%20errors%20are%20produced%20by%20Python%20when,messages%20but%20doesn%E2%80%99t%20do%20the%20right%20thing.%20) 🥇
 
+#### Quick check
+* On Canvas, complete the Quick Check. Record incorrect answers (along with correct responses and clarifications) in OneNote.
+* 
 #### Fix & Write Code  
 * [Fix the Code #1](fix_code_1.py) 🥉
   * Fix the errors in the starter code so it prompts the user for their favorite math class and then responds that it loves that class. 
