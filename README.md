@@ -7,9 +7,8 @@ Use this repository (repo, for short) to complete your practice for Lesson 1.
 * [Edpuzzle practice](edpuzzle_practice.py) 🥉
   * Use this for practice during the Edpuzzle video. You can use the main window or the Python Console (see button at the bottom of the PyCharm window)
 
-#### Parsons Puzzles  
-* [Parsons Puzzle #1: print](https://athenian-computer-science.github.io/hosting-parsons-on-github-template/parsons/print.html) 🥉
-* [Parsons Puzzle #2: input & print](https://athenian-computer-science.github.io/hosting-parsons-on-github-template/parsons/input-print.html)  🥉
+#### Reading   
+* [Debugging: reading from Think Python by Allen B Downey](https://www.greenteapress.com/thinkpython/html/thinkpython021.html#:~:text=1%20Syntax%20errors%20are%20produced%20by%20Python%20when,messages%20but%20doesn%E2%80%99t%20do%20the%20right%20thing.%20)
 
 #### Fix & Write Code  
 * [Fix the Code #1](fix_code_1.py) 🥉
