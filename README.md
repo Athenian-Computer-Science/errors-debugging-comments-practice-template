@@ -1,4 +1,4 @@
-# Lesson 2 Practice
+# Lesson 2 Practice (Errors, Debugging & Comments)
 
 Use this repository (repo, for short) to complete your practice for Lesson 2.
 
