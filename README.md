@@ -4,7 +4,7 @@ Use this repository (repo, for short) to complete your practice for Lesson 2.
 
 ## Complete the following:
 #### Edpuzzle
-* [Edpuzzle practice](edpuzzle_practice.py) 🥉
+* [Edpuzzle practice](src/edpuzzle_practice.py) 🥉
   * Use this for practice during the Edpuzzle video. You can use the main window or the Python Console (see button at the bottom of the PyCharm window)
 
 #### Reading (optional) 
@@ -14,7 +14,7 @@ Use this repository (repo, for short) to complete your practice for Lesson 2.
 * On Canvas, complete the Quick Check. Record incorrect answers (along with correct responses and clarifications) in OneNote.
 
 #### Fix & Write Code  
-* [Fix the Code #1](fix_code_1.py) 🥉
+* [Fix the Code #1](src/fix_code_1.py) 🥉
   * Fix the errors in the starter code so it prompts the user for their favorite math class and then responds that it loves that class. 
     * Sample output (input in parentheses): 
       ```
