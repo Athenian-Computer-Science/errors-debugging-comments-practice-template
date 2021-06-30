@@ -28,3 +28,6 @@ Use this repository (repo, for short) to complete your practice for Lesson 2.
   * See Canvas for more information
   
 
+**Attribution:**
+
+Thank you to Bianca Ruiz [@RuiztheRuler](https://github.com/RuizTheRuler) for providing a great starting place for automating feedback!
